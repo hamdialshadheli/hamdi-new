@@ -1,0 +1,14 @@
+C:\Users\MC\source\repos\hamdinew\hamdinew\bin\Debug\net6.0\hamdinew.exe
+C:\Users\MC\source\repos\hamdinew\hamdinew\bin\Debug\net6.0\hamdinew.deps.json
+C:\Users\MC\source\repos\hamdinew\hamdinew\bin\Debug\net6.0\hamdinew.runtimeconfig.json
+C:\Users\MC\source\repos\hamdinew\hamdinew\bin\Debug\net6.0\hamdinew.dll
+C:\Users\MC\source\repos\hamdinew\hamdinew\bin\Debug\net6.0\hamdinew.pdb
+C:\Users\MC\source\repos\hamdinew\hamdinew\obj\Debug\net6.0\hamdinew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC\source\repos\hamdinew\hamdinew\obj\Debug\net6.0\hamdinew.AssemblyInfoInputs.cache
+C:\Users\MC\source\repos\hamdinew\hamdinew\obj\Debug\net6.0\hamdinew.AssemblyInfo.cs
+C:\Users\MC\source\repos\hamdinew\hamdinew\obj\Debug\net6.0\hamdinew.csproj.CoreCompileInputs.cache
+C:\Users\MC\source\repos\hamdinew\hamdinew\obj\Debug\net6.0\hamdinew.dll
+C:\Users\MC\source\repos\hamdinew\hamdinew\obj\Debug\net6.0\refint\hamdinew.dll
+C:\Users\MC\source\repos\hamdinew\hamdinew\obj\Debug\net6.0\hamdinew.pdb
+C:\Users\MC\source\repos\hamdinew\hamdinew\obj\Debug\net6.0\hamdinew.genruntimeconfig.cache
+C:\Users\MC\source\repos\hamdinew\hamdinew\obj\Debug\net6.0\ref\hamdinew.dll
